@@ -1,0 +1,11 @@
+{
+  "org": "mne-tools",
+  "repo": "mne-kit-gui",
+  "versions": [
+    {
+      "commit": "412f7939d1bafa917a498be404c57b046bd8e6dd",
+      "tag": "",
+      "parsed_at": "2026-10-28T17:04:14.568583+00:00"
+    }
+  ]
+}
